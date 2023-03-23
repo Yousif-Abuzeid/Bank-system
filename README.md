@@ -1,2 +1,3 @@
 # Bank-system
-Bank system using OOp
+Bank system using OOP
+
